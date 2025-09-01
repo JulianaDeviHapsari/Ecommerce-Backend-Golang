@@ -1,6 +1,6 @@
 # E-Commerce Backend Golang
 
-E-Commerce Backend Golang using Echo, Redis, Kafka, Postman, and Docker in Fast Campus Course
+E-Commerce Backend using Golang, Echo, Redis, Kafka, Postman, and Docker in Fast Campus Course
 
 ## Screenshots
 
